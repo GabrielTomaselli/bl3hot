@@ -1,6 +1,6 @@
 {
     "service_name": "customHotfixes",
-    "configuration_group": "4P%20Enemy%20Health%20in%20Solo%20Mode.bl3hotfix",
+    "configuration_group": "gabriel4p.bl3hotfix",
     "configuration_version": "1.3.3.7",
     "parameters": [
         {
