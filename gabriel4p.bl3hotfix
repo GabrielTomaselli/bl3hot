@@ -13,19 +13,19 @@
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000002",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,OnePlayer_PT1,0,,(BaseValueConstant=1.9,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,OnePlayer_PT1,0,,(BaseValueConstant=8,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000003",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,OnePlayer_PT2,0,,(BaseValueConstant=1.9,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,OnePlayer_PT2,0,,(BaseValueConstant=8,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000004",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,OnePlayer_PT1,0,,(BaseValueConstant=2.1,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,OnePlayer_PT1,0,,(BaseValueConstant=16,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000005",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,OnePlayer_PT2,0,,(BaseValueConstant=2.1,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,OnePlayer_PT2,0,,(BaseValueConstant=16,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000006",
@@ -37,19 +37,19 @@
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000008",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,TwoPlayers_PT1,0,,(BaseValueConstant=3,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,TwoPlayers_PT1,0,,(BaseValueConstant=8,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000009",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,TwoPlayers_PT2,0,,(BaseValueConstant=3,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,TwoPlayers_PT2,0,,(BaseValueConstant=8,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000010",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,TwoPlayers_PT1,0,,(BaseValueConstant=4,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,TwoPlayers_PT1,0,,(BaseValueConstant=16,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000011",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,TwoPlayers_PT2,0,,(BaseValueConstant=4,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,TwoPlayers_PT2,0,,(BaseValueConstant=16,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000012",
@@ -61,19 +61,19 @@
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000014",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,ThreePlayers_PT1,0,,(BaseValueConstant=3,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,ThreePlayers_PT1,0,,(BaseValueConstant=8,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000015",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,ThreePlayers_PT2,0,,(BaseValueConstant=3,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,NormalEnemyHealth,ThreePlayers_PT2,0,,(BaseValueConstant=8,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000016",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,ThreePlayers_PT1,0,,(BaseValueConstant=4,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,ThreePlayers_PT1,0,,(BaseValueConstant=16,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         },
         {
             "key": "SparkLevelPatchEntry-Custom-00000017",
-            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,ThreePlayers_PT2,0,,(BaseValueConstant=4,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
+            "value": "(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/DataTable_EnemyHealthAndDamageScalars.DataTable_EnemyHealthAndDamageScalars,BossEnemyHealth,ThreePlayers_PT2,0,,(BaseValueConstant=16,DataTableValue=(DataTable=None,RowName=\"\",ValueName=\"\"),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)"
         }
     ]
 }
