@@ -1,0 +1,11 @@
+{
+	"exitOnGameClose": false,
+	"verboseproxyoutput": false,
+	"replaceHotfixes": false,
+	"port": "9999",
+	"dumpAfterMerging": false,
+	"showGUI": false,
+	"showSystray": true,
+	"speedrunmode": false,
+	"lastPreset": ""
+}
